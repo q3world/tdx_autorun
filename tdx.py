@@ -27,9 +27,6 @@ def lonin(window):
 def dlg_close(window):
     window.close()
     
-def dlg_close(window):
-    window.close()
-    
 def layout(window):
     pyautogui.typewrite(_layout, interval=0.01)
     pyautogui.press('enter')

@@ -1,6 +1,8 @@
 # tdx_autorun
 通达信免费行情自动运行登录
 
+适用目前最新版本：通达信金融终端V7.49
+
 运行前：
 1. 修改 通达信软件安装路径（约定为：D:\new_tdx\TdxW.exe）
 2. 检查 通达信窗口标题（可利用spyxx.exe（ https://github.com/westoncampbell/SpyPlusPlus ）查看）

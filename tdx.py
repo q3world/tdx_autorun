@@ -36,7 +36,6 @@ def layout(window):
     
 def run():
     app = start(_exe_name)
-    #app = re_connect(_exe_name)
     app[_win_login].wait('enabled', timeout=30)
     window = app.top_window()
     #print(window.window_text())
